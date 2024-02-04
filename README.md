@@ -49,7 +49,6 @@ O projeto foi organizado de uma forma linear de modo a facilitar a navegação e
 ```
 ## Linkedin
 https://www.linkedin.com/in/sabrina-otoni-da-silva-22525519b/
-https://www.linkedin.com/in/sabrina-otoni-da-silva-22525519b/
 
 ## Agradecimentos
 Quero agradecer aos cientistas de dados da IBM que assistiram a minha apresentação desse case, e por todo feedback de melhoria para esse e próximos projetos:
