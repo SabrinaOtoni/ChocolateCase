@@ -9,7 +9,7 @@ Identificar pontos de melhora no processo de fabricação de bombons, seguindo o
 
 ## Estrutura
 O projeto foi organizado de uma forma linear de modo a facilitar a navegação e compreensão do passo a passo.
-.
+```
 ├── data
 │   ├── 01_raw
 │   │   ├── analise-preditiva.xlsx
@@ -42,7 +42,7 @@ O projeto foi organizado de uma forma linear de modo a facilitar a navegação e
 │   ├── preprocessor_ordinal.pkl
 ├── README.md
 └── requirements.txt
-
+```
 ## Linkedin
 https://www.linkedin.com/in/sabrina-otoni-da-silva-22525519b/
 https://www.linkedin.com/in/sabrina-otoni-da-silva-22525519b/
