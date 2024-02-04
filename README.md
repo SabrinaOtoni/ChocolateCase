@@ -40,6 +40,8 @@ O projeto foi organizado de uma forma linear de modo a facilitar a navegação e
 ├── preprocessing
 │   ├── preprocessor_hot.pkl
 │   ├── preprocessor_ordinal.pkl
+├── presentation
+│   ├── storytelling.pptx
 ├── README.md
 └── requirements.txt
 ```
