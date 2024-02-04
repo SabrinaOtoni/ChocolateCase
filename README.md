@@ -27,6 +27,8 @@ O projeto foi organizado de uma forma linear de modo a facilitar a navegação e
 │   │   03_processed
 │   │   ├── data_predictive_processed.csv
 │   │   ├── data_prescriptive_processed.csv
+├── documents
+│   │   ├── desafio-advanced-analytics.pdf
 ├── model
 │   │   ├── rf_model.pkl
 ├── notebooks
