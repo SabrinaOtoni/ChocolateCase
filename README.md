@@ -2,7 +2,7 @@
 
 ## Autora
 
-> Sabrina Otoni da Silva
+- Sabrina Otoni da Silva
 
 ## Objetivo
 Identificar pontos de melhora no processo de fabricação de bombons, seguindo os apontamentos do cliente, além de obter um plano de produção (valores ótimos da quantidade de chocolate) visando a minimização da métrica de custo. 
