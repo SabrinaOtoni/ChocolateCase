@@ -1,4 +1,4 @@
-# Case do Bombom - Advanced Analytics - Academia de Estagiários & Processo seletivo interno IBM para o projeto Vale
+# Case do Bombom - Advanced Analytics - Projeto IBM + Vale
 
 ## Autora
 
